@@ -13,18 +13,17 @@
   - 👋 Hi, I’m Hilton / Hill-0xFF.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<p> - ▶️ A curious fullstack student at Trybe and self-taught programmer.</p>
-<p> - 🔭 From simple websites to modern and mind-blowing webapps with 3D visualization.</p>
-<p> - 👀 I’m interested in learning Artificial Intelligence, WebDev and Security development. </p>
-<p> - 🌱 I’m currently learning REACT, Django, PHP and C++. And a lot of other topics like: 3D Visualization, JS Animation, Modern UI/UX with Three.js and so on... </p>
-<h4> - ⚡: You can reach me anytime to get in touch about my current projects or studies!</h4>
+<p> <h3>▶️  A curious fullstack student at Trybe and self-taught programmer.</h3></p>
+<p> <h3>🔭 From simple websites to modern and mind-blowing webapps with 3D visualization.</h3></p>
+<p> <h3>👀 I’m interested in learning Artificial Intelligence, WebDev and Security development. </h3></p>
+<p> <h3>🌱 I’m currently learning REACT, Django, PHP and C++. And a lot of other topics like: 3D Visualization, JS Animation, Modern UI/UX with Three.js and so on...</h3> </p>
+<h3> - ⚡: You can reach me anytime to get in touch about my current projects or studies!</h3>
 <!---
 Hill-0xFF/Hill-0xFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
----
-### 🛠️ Languages:
+<h2>🛠️ Languages:</h2>
 <div id="langs">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -51,18 +50,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 </div>
 
----
-###
-  📋 📎 <b>Tools:</b>
+<h2>  📋 📎 <b>Tools:</b></h2>
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="70" height="70"/>&nbsp;
 </div>
 
----
-###
-
-🔥 <b>Stats:</b>
+<h2>:signal_strength: <b>Stats:</b></h2>
 <div id="stats" width="100%">
   
    <a href="https://git.io/streak-stats">
