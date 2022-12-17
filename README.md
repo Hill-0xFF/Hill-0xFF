@@ -53,10 +53,14 @@ You can click the Preview link to take a look at your changes.
 </div>
 -- 🔥 STATS
 <div id="stats">
-<!--   <a href="https://git.io/streak-stats">
+   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Hill-0xFF"/>
-   </a> -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hill-0xFF&theme=merko&date_format=M%20j%5B%2C%20Y%5D&background=631111&fire=9B1B1B)](https://git.io/streak-stats)
+   </a> 
 
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hill-0xFF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hill-0xFF&theme=merko&date_format=M%20j%5B%2C%20Y%5D&background=631111&fire=9B1B1B)](https://git.io/streak-stats) -->
+<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=Hill-0xFF&theme=merko&date_format=M%20j%5B%2C%20Y%5D&background=631111&fire=9B1B1B)](https://git.io/streak-stats) -->
+<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=Hill-0xFF)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Hill-0xFF)](https://git.io/streak-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Hill-0xFF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
