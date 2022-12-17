@@ -1,5 +1,5 @@
 <div id="banner" align="center">
-  <img src = "https://media.giphy.com/media/5YgvUvKvDiQVUdZxLX/giphy.gif" width="200px" height="200px" />
+  <img src = "https://media.giphy.com/media/5YgvUvKvDiQVUdZxLX/giphy.gif" width="100%" height="200px" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hilton-c-p-3203a7218/">
