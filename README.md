@@ -13,7 +13,7 @@
   - 👋 Hi, I’m Hilton / Hill-0xFF.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<p> <h3>▶️  A curious fullstack student at Trybe and self-taught programmer.</h3></p>
+<p> <h3>▶️  A self-taught programmer.</h3></p>
 <p> <h3>🔭 From simple websites to modern and mind-blowing webapps with 3D visualization.</h3></p>
 <p> <h3>👀 I’m interested in learning Artificial Intelligence, WebDev and Security development. </h3></p>
 <p> <h3>🌱 I’m currently learning REACT, Django, PHP and C++. And a lot of other topics like: 3D Visualization, JS Animation, Modern UI/UX with Three.js and so on...</h3> </p>
